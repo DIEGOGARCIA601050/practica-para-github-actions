@@ -1,0 +1,26 @@
+{
+  "name": "practica-para-github-actions",
+  "version": "1.0.0",
+  "description": "Un repo para practicar con github actions",
+  "main": "hola-amiguitos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIEGOGARCIA601050/practica-para-github-actions.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "git",
+    "github",
+    "azure"
+  ],
+  "author": "diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIEGOGARCIA601050/practica-para-github-actions/issues"
+  },
+  "homepage": "https://github.com/DIEGOGARCIA601050/practica-para-github-actions#readme"
+}
